@@ -52,7 +52,7 @@ public class Interfaz extends javax.swing.JFrame {
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
 
         L1.setFont(new java.awt.Font("Times New Roman", 3, 14));
-        L1.setText("Calculadora");
+        L1.setText("Calculadora_Campus");
 
         B1.setText("1");
         B1.addActionListener(new java.awt.event.ActionListener() {
