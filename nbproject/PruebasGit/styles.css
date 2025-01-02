@@ -1,3 +1,6 @@
+body {
+    font-family: Arial;
+}
 .cabecera {
     background: linear-gradient(90deg, #5f50ff, #47ff8d);
     color: white;
