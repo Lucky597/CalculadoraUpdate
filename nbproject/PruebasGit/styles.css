@@ -1,5 +1,8 @@
+body {
+    font-family: 'Courier New';
+}
 .cabecera {
-    background: linear-gradient(90deg, #5f50ff, #47ff8d);
+    background: linear-gradient(90deg, #fff650, #e3ff47);
     color: white;
     text-align: center;
     padding: 60px 20px;
